@@ -1,0 +1,12 @@
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Data.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Data.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\EntityFramework.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Domain.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Core.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Domain.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\EntityFramework.xml
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Core.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\obj\Debug\TroyLeeMVCEF.Data.csprojResolveAssemblyReference.cache
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\obj\Debug\TroyLeeMVCEF.Data.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\obj\Debug\TroyLeeMVCEF.Data.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Data\bin\Debug\TroyLeeMVCEF.Data.dll.config

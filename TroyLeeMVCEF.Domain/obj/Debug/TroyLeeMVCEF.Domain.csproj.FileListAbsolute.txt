@@ -1,0 +1,7 @@
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\bin\Debug\TroyLeeMVCEF.Domain.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\bin\Debug\TroyLeeMVCEF.Domain.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\bin\Debug\TroyLeeMVCEF.Core.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\bin\Debug\TroyLeeMVCEF.Core.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\obj\Debug\TroyLeeMVCEF.Domain.csprojResolveAssemblyReference.cache
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\obj\Debug\TroyLeeMVCEF.Domain.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Domain\obj\Debug\TroyLeeMVCEF.Domain.pdb

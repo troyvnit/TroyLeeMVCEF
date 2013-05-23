@@ -1,0 +1,4 @@
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Core\bin\Debug\TroyLeeMVCEF.Core.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Core\bin\Debug\TroyLeeMVCEF.Core.pdb
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Core\obj\Debug\TroyLeeMVCEF.Core.dll
+d:\users\tri.lecao\documents\visual studio 2010\Projects\TroyLeeMVCEF\TroyLeeMVCEF.Core\obj\Debug\TroyLeeMVCEF.Core.pdb
